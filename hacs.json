@@ -1,0 +1,6 @@
+{
+    "name": "Ring Hass-io Side Add-on",
+    "render_readme": true,
+    "content_in_root": false,
+    "domains": ["camera"]
+  }
